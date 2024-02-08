@@ -1,2 +1,0 @@
-# JavaScript-Challenges
-Interview Prepration
